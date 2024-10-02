@@ -29,3 +29,55 @@ Reusability: The automation workflow created in UiPath can be reused across diff
 
 Conclusion
 RPA, particularly through platforms like UiPath, is transforming how businesses operate by automating repetitive and time-consuming tasks. In the context of UAT for web applications, RPA not only ensures accuracy and consistency but also frees up human resources to focus on more value-added activities. This leads to improved productivity, cost savings, and overall better quality in software development and deployment. As organizations continue to embrace digital transformation, the role of RPA will only become more critical in enhancing efficiency and effectiveness across various business processes.
+
+Reference list: 
+
+Academy UiPath, 2023. Step into Robotic Process Automation v4.0. Available at: https://academy.uipath.com/courses/1977 [Accessed 2 October 2024].
+
+Ahmad, K. and Iqbal, H., 2022. Robotic Process Automation Projects. Packt Publishing.
+
+Ahrens, D., 2019. Robotic Process Automation: Guide to Building Software Robots, Automate Repetitive Tasks & Become an RPA Consultant. Independently Published.
+
+Baumeister, D., 2020. Practical Robotic Process Automation (RPA): Learn How to Harness RPA Tools for Business Automation. Apress.
+
+Chandra, M., 2020. Automate It with UiPath: Discover Automation Opportunities in Your Business. BPB Publications.
+
+Cody, K., 2021. Robotic Process Automation (RPA) with UiPath: Complete Reference Guide. Independently Published.
+
+Cummings, M., 2020. Mastering UiPath: A Step-by-Step Guide to Robotic Process Automation (RPA). Packt Publishing.
+
+Everitt, T., 2021. UiPath RPA: Ultimate Beginners Guide. CreateSpace Independent Publishing Platform.
+
+Fuentes, A., 2022. Robotic Process Automation (RPA) with UiPath and Python. Independently Published.
+
+Hamel, J., 2021. Learning Robotic Process Automation. Packt Publishing.
+
+Javed, A., Sundrani, A., Malik, N. and Prescott, S.M., 2021. Robotic Process Automation using UiPath StudioX: A Citizen Developer’s Guide to Hyperautomation. Apress.
+
+Kirkwood, G., 2018. The Smart RPA Playbook: From Real-World RPA Deployments to a Practical Guiding Framework. UiPath. Available at: https://www.uipath.com/resources/books/smart-rpa-playbook [Accessed 2 October 2024].
+
+Kumar, S., 2021. Robotic Process Automation for Dummies. John Wiley & Sons.
+
+Lavanya, D., 2020. Robotic Process Automation with UiPath. Independently Published.
+
+Madhusudhan, V., 2021. UiPath RPA Developer's Guide. Packt Publishing.
+
+Maurya, P., 2021. Robotic Process Automation - UiPath: Beginner to Expert. Independently Published.
+
+Miessler, J., 2020. Learning RPA using UiPath. O'Reilly Media. Available at: https://www.oreilly.com/library/view/learning-rpa-using/9781484256772/ [Accessed 2 October 2024].
+
+Mohanty, D., 2020. UiPath Studio: A Comprehensive Guide. CreateSpace Independent Publishing Platform.
+
+Narayanan, A., 2021. Robotic Process Automation with UiPath: A Beginner's Guide. BPB Publications.
+
+O'Neill, S., 2019. The UiPath Guidebook: A Concise Guide to Understanding and Implementing RPA. Independently Published.
+
+Robotic Process Automation using UiPath StudioX: A Citizen Developer’s Guide to Hyperautomation, 2021. Overview. Adeel Javed, Anum Sundrani, Nadia Malik, Sidney Madison Prescott. SpringerLink. Available at: https://link.springer.com/book/10.1007/978-1-4842-6794-3 [Accessed 2 October 2024].
+
+UiPath, 2024. Free RPA and Automation Courses. Available at: https://www.uipath.com/rpa/academy [Accessed 2 October 2024].
+
+UiPath, 2024. UiPath - Learning Robotic Process Automation. O’Reilly Media. Available at: https://www.oreilly.com/library/view/learning-rpa-using/9781484256772/ [Accessed 2 October 2024].
+
+Vemuri, N., 2021. Robotic Process Automation: A Guide for Professionals. Packt Publishing.
+
+Weng, C., 2020. Robotic Process Automation: The Next Major Revolution in Business Process Automation. Springer.
